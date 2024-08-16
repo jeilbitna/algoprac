@@ -1,4 +1,4 @@
-# 더 맵게
+# 더 맵게(Lv.2)
 # https://school.programmers.co.kr/learn/courses/30/lessons/42626
 # 섞은 음식의 스코빌 지수 : 스코빌 최소 + (스코빌 최소 2번째 * 2)
 import heapq
